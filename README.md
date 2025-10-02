@@ -7,7 +7,7 @@ resident evil 4 multiplayer mod
 3. Interpolation System — reduces lag and keeps gameplay fluid.
 4. Monster Synchronization — enemies are shared across all clients.
 5. Custom Launcher — easy setup and access.
-6. Multiplayer Support — multiple players can connect and play together.
+6. Multiple Player Support — multiple players can connect and play together.
 
 🚧 Work in Progress / To Do:
 1. In-Game Chat System — player messaging and communication.
